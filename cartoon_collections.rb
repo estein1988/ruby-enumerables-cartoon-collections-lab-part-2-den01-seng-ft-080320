@@ -22,5 +22,3 @@ def find_valid_calls(planeteer_calls)
     valid_calls.include?(word)
   end
 end
-
-#planeteer_calls.find {|call| valid_calls.include?(call)}
